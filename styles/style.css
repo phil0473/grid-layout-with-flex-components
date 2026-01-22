@@ -4,9 +4,17 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
-    max-width: 1000px;
+    max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+}
+
+.siteheader{
+    max-width: 800px;
+    margin: 0 auto;
+
+    padding-left: 20px; 
+  padding-right: 20px;
 }
 
 /* --- 2. THE FLEX CARD --- */
@@ -35,7 +43,7 @@
 .emoji a{
     margin-top: auto;
 
-/* Styling to make the link look like a purple button */
+/* Styless to make the link look like a purple button */
     display: block;
     background-color: #6a0dad;
     color: white;
@@ -44,6 +52,17 @@
     text-align: center;
     border-radius: 10px;
     font-weight: bold;
+}
+
+.emoji h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+
+.emoji p {
+  line-height: 1.5;
+  margin-bottom: 19px;       /* Spacing between txt n button */
 }
 
 
