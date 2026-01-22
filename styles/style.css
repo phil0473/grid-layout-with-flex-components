@@ -8,3 +8,10 @@
     margin: 0 auto;
     padding: 20px;
 }
+
+/* --- 2. THE FLEX CARD --- */
+
+.emoji{
+    display: flex;
+    flex-direction: column;
+}
