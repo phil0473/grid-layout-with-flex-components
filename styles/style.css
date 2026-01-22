@@ -58,6 +58,9 @@ body {
 }
 
 .emoji a {
+    margin-top: auto;
+    display: block;
+    text-align: center;
   text-decoration: none;
   background-color: #781BAA;
   color: white;
