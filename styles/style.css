@@ -1,0 +1,6 @@
+/* --- 1. THE GRID CONTAINER --- */
+
+.emojis {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
