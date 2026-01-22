@@ -34,6 +34,10 @@
 
 .emoji a{
     margin-top: auto;
-    
+
+
+    display: block;
+    background-color: #6a0dad;
+    color: white;
 }
 
