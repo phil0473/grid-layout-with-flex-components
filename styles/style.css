@@ -40,19 +40,6 @@
 
 /* --- 4. BUTTON ALIGNMENT stlyz --- */
 
-.emoji a{
-    margin-top: auto;
-
-/* Styless to make the link look like a purple button */
-    display: block;
-    background-color: #6a0dad;
-    color: white;
-    text-decoration: none; /* Removes underline */
-    padding: 16px;
-    text-align: center;
-    border-radius: 10px;
-    font-weight: bold;
-}
 
 body {
   font-family: Arial, Helvetica, sans-serif;
