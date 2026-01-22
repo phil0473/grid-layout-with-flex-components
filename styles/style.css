@@ -25,7 +25,7 @@
 
 .icon{
     font-size: 4rem;
-    text-align: center;
+    text-align: center; /* Centers the emoji horizontally */
     margin-bottom: 10px;
     order: -1;
 }
@@ -39,10 +39,12 @@
     display: block;
     background-color: #6a0dad;
     color: white;
-    text-decoration: none;
+    text-decoration: none; /* Removes underline */
     padding: 16px;
     text-align: center;
     border-radius: 10px;
     font-weight: bold;
 }
+
+
 
