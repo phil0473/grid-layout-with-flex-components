@@ -20,3 +20,12 @@
     height: 100%;
     box-sizing: border-box;
 }
+
+/* --- 3. REORDERING THE CONTENT --- */
+
+.icon{
+    font-size: 4rem;
+    text-align: center;
+    margin-bottom: 10px;
+    order: -1;
+}
